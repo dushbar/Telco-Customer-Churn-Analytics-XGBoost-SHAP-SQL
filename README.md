@@ -82,8 +82,6 @@ Best validation result:
 - **Best validation ROC-AUC**: 0.8655
 
 Best parameters:
-
-```python
 {
     "gamma": 1.7414,
     "learning_rate": 0.0796,

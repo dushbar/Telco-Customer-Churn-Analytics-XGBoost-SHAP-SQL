@@ -79,7 +79,7 @@ Hyperparameter tuning was performed using validation ROC-AUC.
 
 Best validation result:
 
-- **Best validation ROC-AUC**: 0.8655
+- **Best validation ROC-AUC**: 0.8344
 
 Best parameters:
 {
